@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>我的桌面</title>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <link href="~/Content/scripts/bootstrap/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/styles/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/adminLTE/css/index.css" rel="stylesheet" />
+    <link href=" ~/Content/scripts/plugins/jqgrid/css" rel="stylesheet" />
+
+
+
+    <script src="~/Content/scripts/jquery/jquery-1.10.2.min.js"></script>
+    <script src="~/Content/scripts/plugins/charts/Chart.js"></script>
+    <script src="~/Content/scripts/utils/Teeking-ui.js"></script>
+    <script src="~/Content/scripts/highcharts/highcharts.js"></script>
+    <script src="~/Content/scripts/highcharts/exporting.js"></script>
+    <script src="~/Content/scripts/highcharts/highcharts-zh_CN.js"></script>
+    <script src="~/Content/scripts/plugins/jqgrid/js"></script>
+    <script src="~/Content/scripts/Home/AdminLTEDesktop.js"></script>
+
+
+    <script>
+        $(function () {
+            Noticemarquee();
+        })
+        //燃尽图
+        $(function () {
+            $('#container').highcharts({
+                chart: {
+                    type: 'area'
+                },
+                title: {
+                    text: '燃尽图'
+                },
+                //subtitle: {
+                //    text: ' <a href="http://www.baidu.com">副标题（带连接）</a>'
+                //},
+                xAxis: {
+                    labels: {
+                        formatter: function () {
+                            return this.value;
+                        }
+                    }
+                },
+                yAxis: {
+                    title: {
+                        text: 'y轴描述'
+                    },
+                    labels: {
+                        formatter: function () {
+                            return this.value / 1000 + 'k';
+                        }
+                    }
+                },
+                tooltip: {
+                    pointFormat: '{series.name}  <b>{point.y:,.0f}</b>'
+                },
+                plotOptions: {
+                    area: {
+                        pointStart: 1940,
+                        marker: {
+                            enabled: false,
+                            symbol: 'circle',
+                            radius: 2,
+                            states: {
+                                hover: {
+                                    enabled: true
+                                }
+                            }
+                        }
+                    }
+                },
+                series: [{
+                    name: '项目1',
+                    data: [null, null, null, null, null, 6000, 11, 32, 110, 235, 369, 640,
+                        1005, 1436, 2063, 3057, 4618, 6444, 9822, 154680, 204340, 241260,
+                        27387, 29459, 31056, 31982, 32040, 31233, 29224, 27342, 26662,
+                        26956, 27912, 28999, 28965, 27826, 25579, 25722, 24826, 24605,
+                        24304, 23464, 23708, 24099, 24357, 24237, 24401, 24344, 23586,
+                        22380, 21004, 17287, 14747, 13076, 12555, 12144, 11009, 10950,
+                        10871, 10824, 10577, 10527, 10475, 10421, 10358, 10295, 10104]
+                }, {
+                    name: '项目2',
+                    data: [null, null, null, null, null, null, null, null, null, null,
+                        5, 2500, 50, 120, 150, 200, 426, 660, 869, 1060, 1605, 2471, 3322,
+                        4238, 5221, 6129, 7089, 8339, 9399, 10538, 11643, 13092, 14478,
+                        15915, 17385, 19055, 21205, 23044, 25393, 279350, 30062, 32049,
+                        33952, 35804, 37431, 39197, 45000, 43000, 41000, 39000, 37000,
+                        35000, 33000, 31000, 29000, 27000, 25000, 24000, 23000, 22000,
+                        21000, 20000, 19000, 18000, 18000, 17000, 160000]
+                },
+                {
+                    name: '项目3',
+                    data: [null, null, null, null, null, null, null, null, null, null,
+                        5, 2005, 50, 120, 150, 200, 426, 660, 869, 1060, 1605, 2471, 3002,
+                        4238, 5221, 6129, 7089, 8339, 9399, 10538, 11643, 13092, 14478,
+                        15915, 17385, 19055, 21205, 23044, 21393, 22935, 31062, 32049,
+                        33852, 35804, 37431, 39197, 45000, 43000, 41000, 39000, 37000,
+                        35000, 33000, 31000, 29000, 27000, 25000, 24000, 23000, 22000,
+                        215000, 208000, 12000, 18000, 18090, 19000, 20000]
+                }]
+            });
+        });
+
+        //首页用户登录状态消息
+        function Noticemarquee() {
+            $.ajax({
+                url: "/SystemManage/Log/GetLog",
+                type: 'get',
+                success: function (data) {
+                    console.log("11", data);
+                    $("#Noticemarquee").html("");
+                    for (var i = 0; i < data.length; i++) {
+                        //var html = "<span  style='font-size:15px; font - family:Arial, Helvetica, sans - serif; font - style:italic; padding-right:140px;'>" + data[i].OperateAccount + "" + data[i].OperateType + "了系统</span><span style='font-size:15px; font - family:Arial, Helvetica, sans - serif; font - style:italic;'>" + convertTime(data[i].OperateTime, "yyyy-MM-dd hh:mm:ss") +"</span><br />";
+                        var html = "<li>&nbsp;&nbsp;&nbsp;<span style='font-size:15px; font-family:Arial, Helvetica, sans-serif; font-style:italic;'>" + data[i].OperateAccount + "&nbsp;" + data[i].OperateType + "了系统</span><span class='time' style='font-style:italic;'><i class='fa fa-clock-o'></i>&nbsp;" + convertTime(data[i].OperateTime, "yyyy-MM-dd hh:mm:ss") + "</span></li>"
+                        $("#Noticemarquee").append(html);
+                    }
+                }
+            })
+        }
+        //function ProjectNumber() {
+        //    alert();
+        //}
+        function CountProject() {
+            top.tablist.newTab({
+                id: "ProjectNumber",
+                title: "项目总览",
+                closed: true,
+                replace: true,
+                url: top.contentPath + "/TaskManage/Product/ProjectCountIndex"
+            });
+        }
+
+
+        //控制项目总览js
+        $(document).ready(function () {
+            $('.counter-value').each(function () {
+                $(this).prop('Counter', 0).animate({
+                    Counter: $(this).text()
+                }, {
+                        duration: 3500,
+                        easing: 'swing',
+                        step: function (now) {
+                            $(this).text(Math.ceil(now));
+                        }
+                    });
+            });
+        });
+    </script>
+
+    <style type="text/css">
+        .progressDiv {
+            width: 100%;
+            position: relative;
+            height: 20px;
+            line-height: 10px;
+            /*margin-top: -5px;*/
+        }
+
+        .label-gray {
+            background-color: #efefef;
+        }
+
+        .label-total {
+            width: 100%;
+            height: 90%;
+            position: absolute;
+            top: 0px;
+            left: 0px;
+        }
+
+        .label-absolute {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            text-align: left;
+            height: 90%
+        }
+
+
+        /*分割 ---以下Css为项目总览样式*/
+        .demo {
+            padding: 2em 0;
+        }
+
+        .counter {
+            padding: 20px 0;
+            text-align: center;
+            position: relative;
+        }
+
+            .counter .counter-content {
+                width: 150px;
+                height: 150px;
+                border-radius: 50%;
+                background: #fff;
+                padding: 30px 0;
+                margin: 0 auto 30px;
+                z-index: 1;
+                position: relative;
+                transition: all 0.3s ease 0s;
+            }
+
+                .counter .counter-content:before {
+                    content: "";
+                    width: 122%;
+                    height: 122%;
+                    border-radius: 50%;
+                    border: 20px solid #f19f48;
+                    border-bottom: 20px solid transparent;
+                    position: absolute;
+                    top: 50%;
+                    left: 50%;
+                    transform: translate(-50%,-50%);
+                }
+
+                .counter .counter-content:after {
+                    content: "";
+                    border-top: 16px solid #f19f48;
+                    border-left: 16px solid transparent;
+                    border-right: 16px solid transparent;
+                    position: absolute;
+                    bottom: -14px;
+                    left: 50%;
+                    transform: translateX(-50%);
+                }
+
+            .counter .counter-icon {
+                display: block;
+                font-size: 50px;
+                color: #f19f48;
+                line-height: 50px;
+            }
+
+            .counter .counter-value {
+                font-size: 50px;
+                font-weight: 700;
+                color: rgba(0,0,0,0.7);
+                line-height: 70px;
+            }
+
+            .counter .title {
+                display: inline-block;
+                padding: 5px 25px;
+                background: #f19f48;
+                border-radius: 10px;
+                font-size: 20px;
+                font-weight: 600;
+                color: #fff;
+                text-transform: capitalize;
+                margin: 0;
+            }
+
+            .counter.red .counter-content:before {
+                border-color: #ef5f61;
+                border-bottom-color: transparent;
+            }
+
+            .counter.red .counter-content:after {
+                border-top-color: #ef5f61;
+            }
+
+            .counter.red .counter-icon {
+                color: #ef5f61;
+            }
+
+            .counter.red .title {
+                background: #ef5f61;
+            }
+
+            .counter.blue .counter-content:before {
+                border-color: #4d9fcf;
+                border-bottom-color: transparent;
+            }
+
+            .counter.blue .counter-content:after {
+                border-top-color: #4d9fcf;
+            }
+
+            .counter.blue .counter-icon {
+                color: #4d9fcf;
+            }
+
+            .counter.blue .title {
+                background: #4d9fcf;
+            }
+
+            .counter.purple .counter-content:before {
+                border-color: #a98ceb;
+                border-bottom-color: transparent;
+            }
+
+            .counter.purple .counter-content:after {
+                border-top-color: #a98ceb;
+            }
+
+            .counter.purple .counter-icon {
+                color: #a98ceb;
+            }
+
+            .counter.purple .title {
+                background: #a98ceb;
+            }
+    </style>
+</head>
+<body style="overflow: hidden; margin: 0px;">
+    <div id="areascontent" style="margin: 10px 10px 0 10px; margin-bottom: 0px; overflow: auto;">
+        <div class="rows" style="margin-bottom: 0.8%; overflow: hidden;">
+            <div style="float: left; width: 69.2%;">
+                <div style="height: 100%; border: 1px solid #e6e6e6; overflow: hidden; height:100px;">
+                    <div class="dashboard-stats" style="width:435px;">
+                        <div class="dashboard-stats-item" style="background-color: #44b6ae; " onclick="OpenAgency()">
+                            <div class="stat-icon">
+                                <i class="fa fa-clock-o"></i>
+                            </div>
+                            <h2 class="m-top-none" id="h_AgencyNumber">0</h2>
+                            <h5><b>待处理任务</b></h5>
+                        </div>
+                    </div>
+                    <div class="dashboard-stats" style="width:435px;">
+                        <div class="dashboard-stats-item" style="background-color: #578ebe;" onclick="ProjectNumber()">
+                            <div class="stat-icon">
+                                <i class="fa fa-hourglass-1"></i>
+                            </div>
+                            <h2 class="m-top-none" id="h_ProjectNumber1">0</h2>
+                            <h5><b>--</b></h5>
+                        </div>
+                    </div>
+                    <div class="dashboard-stats" style="width:435px; opacity:0.7">
+                        <div class="dashboard-stats-item" style="background-color: #ff6a00;" onclick="PreSignedAgency()">
+                            <h2 class="m-top-none" id="h_PreSignedNumber">0</h2>
+                            <h5><b>客户维护状态提醒(待交维护费)</b></h5>
+                            <div class="stat-icon">
+                                <i class="fa fa-bitcoin"></i>
+                            </div>
+                        </div>
+                    </div>              
+                    @*<div class="dashboard-stats" style="width:435px;">
+                            <div class="dashboard-stats-item" style="background-color:#4f5c65;" onclick="RiskAuditAgency()">
+                                <h2 class="m-top-none" id="h_RiskAuditNumber">0</h2>
+                                <h5>处理中任务</h5>
+                                <div class="stat-icon">
+                                    <i class="fa fa-file-text-o"></i>
+                                </div>
+                            </div>
+                        </div>*@
+                    @*<div class="dashboard-stats">
+                            <div class="dashboard-stats-item" style="background-color:#e35b5a; margin-bottom: 0px;" onclick="OpenEarlyWarn()">
+                                <h2 class="m-top-none" id="h_EarlyWarnNumber">0</h2>
+
+                                <h5>当前处理的任务进度</h5>
+                                <div class="stat-icon">
+                                    <i class="fa fa-bell"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="dashboard-stats">
+                            <div class="dashboard-stats-item" style="background-color: #14aae4; margin-bottom: 0px;">
+                                <h2 class="m-top-none">0<span>条</span></h2>
+                                <h5>--</h5>
+                                <div class="stat-icon">
+                                    <i class="fa fa-btc"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="dashboard-stats">
+                            <div class="dashboard-stats-item" style="background-color: #949FB1; margin-bottom: 0px;">
+                                <h2 class="m-top-none">0<span>条</span></h2>
+                                <h5>--</h5>
+                                <div class="stat-icon">
+                                    <i class="fa fa-coffee"></i>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="dashboard-stats">
+                            <div class="dashboard-stats-item" style="background-color: #f29503; margin-right: 0px; margin-bottom: 0px;">
+                                <h2 class="m-top-none">0<span>条</span></h2>
+                                <h5>--</h5>
+                                <div class="stat-icon">
+                                    <i class="fa fa-rmb" style="padding-left: 10px;"></i>
+                                </div>
+                            </div>
+                        </div>*@
+                </div>
+            </div>
+            <div style="float: right; width: 30%;">
+                <div style="height: 110px; border: 1px solid #e6e6e6; background-color: #fff;">
+                    <div class="panel panel-default">
+                        <div class="panel-heading"><i class="fa fa-bell-o" style="padding-right: 5px; font-size:25px;"></i>系统通知</div>
+                        <div class="panel-body">
+                            <ul id="Noticemarquee">
+                                @*<li><i class='fa fa-tags'></i>&nbsp;&nbsp;<a style="font-size:15px; font-family:Arial, Helvetica, sans-serif; font-style:italic;">System登录了系统</a><span class="time" style="font-size:15px; font-family:Arial, Helvetica, sans-serif; font-style:italic;">2018-05-05</span></li>*@
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="rows" style=" overflow: hidden;">
+            <div style="float: left; width: 69.2%;">
+                <div style="height: 670px; border: 1px solid #e6e6e6; background-color: #fff;">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <i class="fa fa-bar-chart fa-lg" style="padding-right: 5px; font-size:25px;"></i>任务一览表
+                            <div class="btn-group">
+                                @*<a id="btn_Custom" class="btn btn-default" onclick="btn_Custom()"><i class="fa fa-globe"></i>&nbsp;客户</a>*@
+                            </div>
+                        </div>
+                        <div class="gridPanel">
+                            <table id="gridTable"></table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div style="float: right; width: 30%;">
+                <div style="height: 280px; border: 1px solid #e6e6e6; background-color: #fff;margin-bottom: 2.8%;overflow: hidden;">
+                    <div class="panel panel-default">
+                        <div class="panel-heading"><i class="fa fa-bullhorn" style="padding-right: 5px; font-size:25px;"></i>公司公告</div>
+                        <div class="panel-body">
+                            <ul id="Notice"></ul>
+                        </div>
+                    </div>
+                </div>
+                <div style="height:370px; border: 1px solid #e6e6e6; background-color: #fff;">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <i class="fa fa-desktop" style="padding-right: 5px; font-size:25px;"></i>项目总览
+                        </div>
+                        <div class="panel-body">
+                            @*<ul id="News"></ul>*@
+                            <div class="demo">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-3 col-sm-6">
+                                            <div class="counter blue">
+                                                <div class="counter-content">
+                                                    <div class="counter-icon fa fa-globe"></div>
+                                                    @*<span class="counter-value" id="h_ProjectNumber">0</span>*@
+                                                    <h2 class="m-top-none" id="h_ProjectNumber"  style="font-size:45px;"><b>0</b></h2><hr />
+                                                </div>
+                                                <h3 class="title"><span style="cursor:pointer;" onclick="CountProject()">项目总览</span> </h3>
+                                            </div>
+                                        </div>
+                                        <p><span><b style="font-size:15px;"><i class="fa fa-circle" style="color:#4d9fcf;">&nbsp;</i>正常 13</b></span></p>
+                                        <p><span><b style="font-size:15px;"><i class="fa fa-circle" style="color:#ef5f61;">&nbsp;</i>Bug&nbsp;<label id="BugCount">0</label></b></span></p>
+                                        <p><span><b style="font-size:15px;"><i class="fa fa-circle" style="color:rgba(68, 221, 45, 0.70);">&nbsp;</i>需求&nbsp;<label id="DemandCount">0</label></b></span></p>
+                                        <p><span><b style="font-size:15px;"><i class="fa fa-circle" style="color:#808080;">&nbsp;</i>已结束&nbsp;<label id="Finished">0</label></b></span></p>
+                                        <p><span><b style="font-size:15px;"><i class="fa fa-circle" style="color:#44b6ae;">&nbsp;</i>未开始&nbsp;<label id="NotBeginning">0</label></b></span></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="rows" style="overflow: hidden;">
+            <div style="float: right; width: 30%;">
+            </div>
+        </div>
+    </div>
+    <style>
+        #copyrightcontent {
+            height: 30px;
+            line-height: 29px;
+            overflow: hidden;
+            position: absolute;
+            top: 100%;
+            margin-top: -30px;
+            width: 100%;
+            background-color: #fff;
+            border: 1px solid #e6e6e6;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        .dashboard-stats {
+            float: left;
+            width: 25%;
+        }
+
+        .dashboard-stats-item {
+            position: relative;
+            overflow: hidden;
+            color: #fff;
+            cursor: pointer;
+            height: 105px;
+            margin-right: 10px;
+            margin-bottom: 10px;
+            padding-left: 15px;
+            padding-top: 20px;
+        }
+
+            .dashboard-stats-item .m-top-none {
+                margin-top: 5px;
+            }
+
+            .dashboard-stats-item h2 {
+                font-size: 28px;
+                font-family: inherit;
+                line-height: 1.1;
+                font-weight: 500;
+                padding-left: 70px;
+            }
+
+                .dashboard-stats-item h2 span {
+                    font-size: 12px;
+                    padding-left: 5px;
+                }
+
+            .dashboard-stats-item h5 {
+                font-size: 12px;
+                font-family: inherit;
+                margin-top: 1px;
+                line-height: 1.1;
+                padding-left: 70px;
+            }
+
+
+            .dashboard-stats-item .stat-icon {
+                position: absolute;
+                top: 18px;
+                font-size: 50px;
+                opacity: .3;
+            }
+
+        .dashboard-stats i.fa.stats-icon {
+            width: 50px;
+            padding: 20px;
+            font-size: 50px;
+            text-align: center;
+            color: #fff;
+            height: 50px;
+            border-radius: 10px;
+        }
+
+        .panel-default {
+            border: none;
+            border-radius: 0px;
+            margin-bottom: 0px;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+        }
+
+            .panel-default > .panel-heading {
+                color: #777;
+                background-color: #fff;
+                border-color: #e6e6e6;
+                padding: 10px 10px;
+            }
+
+            .panel-default > .panel-body {
+                padding: 10px;
+                padding-bottom: 0px;
+            }
+
+                .panel-default > .panel-body ul {
+                    overflow: hidden;
+                    padding: 0;
+                    margin: 0px;
+                    margin-top: -5px;
+                }
+
+                    .panel-default > .panel-body ul li {
+                        line-height: 27px;
+                        list-style-type: none;
+                        white-space: nowrap;
+                        text-overflow: ellipsis;
+                    }
+
+                        .panel-default > .panel-body ul li .time {
+                            color: #a1a1a1;
+                            float: right;
+                            padding-right: 5px;
+                        }
+    </style>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

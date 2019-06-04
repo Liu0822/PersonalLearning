@@ -1,0 +1,46 @@
+C:\工作区域\LeaRun.敏捷开发框架_2018\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Learun.Ioc.dll
+C:\工作区域\LeaRun.敏捷开发框架_2018\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Learun.Ioc.pdb
+C:\工作区域\LeaRun.敏捷开发框架_2018\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\工作区域\LeaRun.敏捷开发框架_2018\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\工作区域\LeaRun.敏捷开发框架_2018\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+C:\工作区域\LeaRun.敏捷开发框架_2018\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\工作区域\LeaRun.敏捷开发框架_2018\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\工作区域\LeaRun.敏捷开发框架_2018\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\工作区域\LeaRun.敏捷开发框架_2018\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+C:\工作区域\LeaRun.敏捷开发框架_2018\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\工作区域\LeaRun.敏捷开发框架_2018\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\工作区域\LeaRun.敏捷开发框架_2018\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\obj\Debug\Learun.Ioc.csprojResolveAssemblyReference.cache
+C:\工作区域\LeaRun.敏捷开发框架_2018\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\obj\Debug\Learun.Ioc.csproj.CoreCompileInputs.cache
+C:\工作区域\LeaRun.敏捷开发框架_2018\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\obj\Debug\Learun.Ioc.dll
+C:\工作区域\LeaRun.敏捷开发框架_2018\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\obj\Debug\Learun.Ioc.pdb
+C:\Users\chenk\Desktop\力软_专业版201809\力软_专业版7.0\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Learun.Ioc.dll
+C:\Users\chenk\Desktop\力软_专业版201809\力软_专业版7.0\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Learun.Ioc.pdb
+C:\Users\chenk\Desktop\力软_专业版201809\力软_专业版7.0\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\chenk\Desktop\力软_专业版201809\力软_专业版7.0\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\chenk\Desktop\力软_专业版201809\力软_专业版7.0\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\chenk\Desktop\力软_专业版201809\力软_专业版7.0\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\chenk\Desktop\力软_专业版201809\力软_专业版7.0\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\chenk\Desktop\力软_专业版201809\力软_专业版7.0\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\chenk\Desktop\力软_专业版201809\力软_专业版7.0\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\chenk\Desktop\力软_专业版201809\力软_专业版7.0\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\chenk\Desktop\力软_专业版201809\力软_专业版7.0\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\chenk\Desktop\力软_专业版201809\力软_专业版7.0\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\obj\Debug\Learun.Ioc.csprojAssemblyReference.cache
+C:\Users\chenk\Desktop\力软_专业版201809\力软_专业版7.0\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\obj\Debug\Learun.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\chenk\Desktop\力软_专业版201809\力软_专业版7.0\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\obj\Debug\Learun.Ioc.csproj.CopyComplete
+C:\Users\chenk\Desktop\力软_专业版201809\力软_专业版7.0\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\obj\Debug\Learun.Ioc.dll
+C:\Users\chenk\Desktop\力软_专业版201809\力软_专业版7.0\learun.adms7.pro\Learun.Framework.Module\Learun.Ioc\obj\Debug\Learun.Ioc.pdb
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Learun.Ioc.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Learun.Ioc.pdb
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\obj\Debug\Learun.Ioc.csproj.CoreCompileInputs.cache
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\obj\Debug\Learun.Ioc.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\obj\Debug\Learun.Ioc.pdb
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\obj\Debug\Learun.Ioc.csprojResolveAssemblyReference.cache

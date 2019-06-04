@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Other_L";
+    Layout = "~/Views/Shared/_Form.cshtml";
+}
+<div class="lr-form-wrap" id="form">
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">Name<font face="宋体">*</font></div>
+        <input id="Name" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">Title<font face="宋体">*</font></div>
+        <input id="Title" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-12 lr-form-item">
+        <div class="lr-form-item-title">附件</div>
+        <div class="lr-portal-panel-content">
+            <div id="Files"></div>
+        </div>
+    </div>
+    <div class="col-xs-12 lr-form-item">
+        <div class="lr-form-item-title">复选框</div>
+        <div class="lr-portal-panel-content">
+            <div id="Selects" style="margin-top:10px;"></div>
+        </div>
+    </div>
+    <div class="col-xs-12 lr-form-item">
+        <div class="lr-form-item-title">内容</div>
+        <script id="Editor" type="text/plain" style="height:270px;">
+        </script>
+    </div>
+</div>
+<!--富文本-->
+<script src="~/Content/ueditor/ueditor.config.js"></script>
+<script src="~/Content/ueditor/ueditor.all.js"></script>
+<script src="~/Content/ueditor/lang/zh-cn/zh-cn.js"></script>
+@Html.AppendJsFile("/Areas/Other_L/Views/Other_L/Form.js")

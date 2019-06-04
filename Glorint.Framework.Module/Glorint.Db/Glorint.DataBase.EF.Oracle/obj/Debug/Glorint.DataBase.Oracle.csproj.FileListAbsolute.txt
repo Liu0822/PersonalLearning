@@ -1,0 +1,140 @@
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\Learun.DataBase.Oracle.dll.config
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\Learun.DataBase.Oracle.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\Learun.DataBase.Oracle.pdb
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\Dapper.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\EntityFramework.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\EntityFramework.SqlServer.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\Learun.DataBase.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\Learun.Util.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\NPOI.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\NPOI.OOXML.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\Newtonsoft.Json.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\LumiSoft.Net.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\Yahoo.Yui.Compressor.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\NPOI.OpenXml4Net.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\EcmaScript.NET.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\Learun.Util.pdb
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\Learun.Util.dll.config
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\Learun.DataBase.pdb
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\Learun.DataBase.dll.config
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\Dapper.xml
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\EntityFramework.xml
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\EntityFramework.SqlServer.xml
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\NPOI.xml
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\Newtonsoft.Json.xml
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\bin\Debug\LumiSoft.Net.xml
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\obj\Debug\Glorint.DataBase.Oracle.csprojResolveAssemblyReference.cache
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\obj\Debug\Glorint.DataBase.Oracle.csproj.CoreCompileInputs.cache
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\obj\Debug\Learun.DataBase.Oracle.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Oracle\obj\Debug\Learun.DataBase.Oracle.pdb
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.DataBase.Oracle.dll.config
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.DataBase.Oracle.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.DataBase.Oracle.pdb
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Dapper.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\EntityFramework.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\EntityFramework.SqlServer.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.DataBase.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.Util.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\NPOI.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\NPOI.OOXML.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Newtonsoft.Json.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\LumiSoft.Net.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Yahoo.Yui.Compressor.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\NPOI.OpenXml4Net.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\EcmaScript.NET.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.Util.pdb
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.Util.dll.config
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.DataBase.pdb
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.DataBase.dll.config
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Dapper.xml
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\EntityFramework.xml
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\EntityFramework.SqlServer.xml
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\NPOI.xml
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Newtonsoft.Json.xml
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\LumiSoft.Net.xml
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\obj\Debug\Glorint.DataBase.Oracle.csprojResolveAssemblyReference.cache
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\obj\Debug\Glorint.DataBase.Oracle.csproj.CoreCompileInputs.cache
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\obj\Debug\Glorint.DataBase.Oracle.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\obj\Debug\Glorint.DataBase.Oracle.pdb
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.DataBase.Oracle.dll.config
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.DataBase.Oracle.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.DataBase.Oracle.pdb
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Dapper.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\EntityFramework.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\EntityFramework.SqlServer.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.DataBase.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.Util.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\NPOI.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\NPOI.OOXML.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Newtonsoft.Json.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\LumiSoft.Net.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Yahoo.Yui.Compressor.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\NPOI.OpenXml4Net.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\EcmaScript.NET.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.Util.pdb
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.Util.dll.config
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.DataBase.pdb
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.DataBase.dll.config
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Dapper.xml
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\EntityFramework.xml
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\EntityFramework.SqlServer.xml
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\NPOI.xml
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Newtonsoft.Json.xml
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\LumiSoft.Net.xml
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\obj\Debug\Glorint.DataBase.Oracle.csprojResolveAssemblyReference.cache
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\obj\Debug\Glorint.DataBase.Oracle.csproj.CoreCompileInputs.cache
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\obj\Debug\Glorint.DataBase.Oracle.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\obj\Debug\Glorint.DataBase.Oracle.pdb
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.DataBase.Oracle.dll.config
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.DataBase.Oracle.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.DataBase.Oracle.pdb
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Dapper.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\EntityFramework.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\EntityFramework.SqlServer.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.DataBase.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.Util.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\NPOI.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\NPOI.OOXML.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Newtonsoft.Json.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\LumiSoft.Net.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Yahoo.Yui.Compressor.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\NPOI.OpenXml4Net.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\EcmaScript.NET.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.Util.pdb
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.Util.dll.config
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.DataBase.pdb
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Glorint.DataBase.dll.config
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Dapper.xml
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\EntityFramework.xml
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\EntityFramework.SqlServer.xml
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\NPOI.xml
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\Newtonsoft.Json.xml
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\bin\Debug\LumiSoft.Net.xml
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\obj\Debug\Glorint.DataBase.Oracle.csprojResolveAssemblyReference.cache
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\obj\Debug\Glorint.DataBase.Oracle.csproj.CoreCompileInputs.cache
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\obj\Debug\Glorint.DataBase.Oracle.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Db\Glorint.DataBase.EF.Oracle\obj\Debug\Glorint.DataBase.Oracle.pdb

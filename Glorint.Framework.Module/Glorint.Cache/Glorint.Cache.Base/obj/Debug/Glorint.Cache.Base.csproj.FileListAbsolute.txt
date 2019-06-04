@@ -1,0 +1,21 @@
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\bin\Debug\Learun.Cache.Base.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\bin\Debug\Learun.Cache.Base.pdb
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Glorint.Cache.Base.csproj.CoreCompileInputs.cache
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.dll
+E:\敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.pdb
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Cache\Glorint.Cache.Base\bin\Debug\Glorint.Cache.Base.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Cache\Glorint.Cache.Base\bin\Debug\Glorint.Cache.Base.pdb
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Cache\Glorint.Cache.Base\obj\Debug\Glorint.Cache.Base.csproj.CoreCompileInputs.cache
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Cache\Glorint.Cache.Base\obj\Debug\Glorint.Cache.Base.dll
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Cache\Glorint.Cache.Base\obj\Debug\Glorint.Cache.Base.pdb
+E:\敏捷开发框架专业版7.0\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Cache\Glorint.Cache.Base\obj\Debug\Glorint.Cache.Base.csprojResolveAssemblyReference.cache
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Cache\Glorint.Cache.Base\bin\Debug\Glorint.Cache.Base.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Cache\Glorint.Cache.Base\bin\Debug\Glorint.Cache.Base.pdb
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Cache\Glorint.Cache.Base\obj\Debug\Glorint.Cache.Base.csproj.CoreCompileInputs.cache
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Cache\Glorint.Cache.Base\obj\Debug\Glorint.Cache.Base.dll
+E:\7.0(力软框架修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Cache\Glorint.Cache.Base\obj\Debug\Glorint.Cache.Base.pdb
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Cache\Glorint.Cache.Base\bin\Debug\Glorint.Cache.Base.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Cache\Glorint.Cache.Base\bin\Debug\Glorint.Cache.Base.pdb
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Cache\Glorint.Cache.Base\obj\Debug\Glorint.Cache.Base.csproj.CoreCompileInputs.cache
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Cache\Glorint.Cache.Base\obj\Debug\Glorint.Cache.Base.dll
+E:\7.0(修改版)\Code\Glorint.WMS\Glorint.Framework.Module\Glorint.Cache\Glorint.Cache.Base\obj\Debug\Glorint.Cache.Base.pdb

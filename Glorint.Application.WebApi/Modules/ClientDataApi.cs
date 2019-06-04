@@ -1,0 +1,48 @@
+﻿using Glorint.Application.AppMagager;
+using Glorint.Application.WorkFlow;
+using Nancy;
+
+namespace Glorint.Application.WebApi.Modules
+{
+    /// <summary>
+    /// 版 本 Glorint-Admin V1.0 供应链WMS
+    /// Copyright (c) 2018 深圳国投供应链管理有限公司
+    /// 创建人：Admin
+    /// 日 期：2018.03.22
+    /// 描 述：客户端数据
+    /// </summary>
+    public class ClientDataApi: BaseApi
+    {
+        /// <summary>
+        /// 注册接口
+        /// </summary>
+        public ClientDataApi()
+            : base("/learun/adms/clinet")
+        {
+            Get["/module"] = GetModule;// 获取数据字典详细列表
+        }
+
+        private FunctionIBLL functionIBLL = new FunctionBLL();
+        private WfSchemeIBLL wfSchemeIBLL = new WfSchemeBLL();
+        
+        /// <summary>
+        /// 获取客户端数据
+        /// </summary>
+        /// <param name="_"></param>
+        /// <returns></returns>
+        private Response GetModule(dynamic _)
+        {
+            //var custmerform = functionIBLL.GetList();
+            var wfSchemeList = wfSchemeIBLL.GetAppCustmerSchemeInfoList(userInfo);
+
+            var jsonData = new
+            {
+                //custmerform = custmerform,
+                wflist = wfSchemeList
+            };
+            return Success(jsonData);
+        }
+
+
+    }
+}
